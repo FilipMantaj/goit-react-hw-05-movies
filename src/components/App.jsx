@@ -24,7 +24,7 @@ export const App = () => {
       headers: {
         accept: 'application/json',
         Authorization:
-          'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkYTQyNWIwYjU2OGVjY2JlZDg4ODRmYWNjNDY5ZjZlMSIsInN1YiI6IjY2M2EyMjcyNWE0NjkwMDEyNTNmNDUwMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.uC7HJkDwjXG2-2avPv7dsq3GhNDhIi4XR4zstIkI97M',
+          'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkY2E4ZTVkNTEwMGVlMTY0NjAzNDc2OTI0Y2I4ZWQ0ZCIsInN1YiI6IjY2NThiNWYzOThmZjNmM2VlNDZjMmM3MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NmCaSXxa__DiB0BE8KsVx4m1TmznsDwPZtXHtz8ihko',
       },
     };
 
